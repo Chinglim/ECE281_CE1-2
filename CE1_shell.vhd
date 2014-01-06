@@ -29,8 +29,6 @@ use IEEE.STD_LOGIC_1164.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
---test comment for GIT
-
 entity CE1_shell is
     Port ( A : in  STD_LOGIC;
            B : in  STD_LOGIC;
