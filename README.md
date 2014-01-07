@@ -22,7 +22,7 @@ Truth Tabel
 Waveform Image
 --------------
 
-![alt text](https://github.com/alexsisco714/ECE281_CE1/CE1_sim.JPG "Circut Simulated Waveform")
+![alt text](https://github.com/alexsisco714/ECE281_CE1/CE1sim.JPG "Circut Simulated Waveform")
 
 Analysis
 --------
