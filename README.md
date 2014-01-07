@@ -1,12 +1,14 @@
 ECE281_CE1
 ==========
 
-Cadet Sisco's 
+Cadet Sisco's lame circut
 
 Truth Tabel
 -----------
-|:------:|:------:|:------:|:------:|
+
+
 |A       |B       |C       |F       |
+|:------:|:------:|:------:|:------:|
 |0       |0       |0       |0       |
 |1       |0       |0       |1       |
 |0       |1       |0       |0       |
@@ -16,9 +18,11 @@ Truth Tabel
 |0       |1       |1       |1       |
 |1       |1       |1       |1       |
 
+
 Waveform Image
 --------------
-![alt text](https://github.com/alexsisco714/ECE281_CE1/'CE1 sim.JPG' "Circut Simulated Waveform")
+
+![alt text](https://github.com/alexsisco714/ECE281_CE1/CE1_sim.JPG "Circut Simulated Waveform")
 
 Analysis
 --------
